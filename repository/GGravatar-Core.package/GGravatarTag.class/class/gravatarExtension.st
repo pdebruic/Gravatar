@@ -1,0 +1,4 @@
+defaults
+gravatarExtension
+
+	^ '.jpg'

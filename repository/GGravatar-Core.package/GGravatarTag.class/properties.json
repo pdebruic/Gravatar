@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "WAImageTag",
+	"category" : "GGravatar-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"GravatarRatings",
+		"GravatarStyles"
+	],
+	"instvars" : [
+		"url"
+	],
+	"name" : "GGravatarTag",
+	"type" : "normal"
+}

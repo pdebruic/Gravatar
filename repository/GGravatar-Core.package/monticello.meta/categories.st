@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #'GGravatar-Core'!
+SystemOrganization addCategory: 'GGravatar-Core'!

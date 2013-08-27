@@ -1,4 +1,8 @@
 as yet unclassified
 size: anInteger
-
-	url addField: 'size' value: (anInteger min: 512 max: 1) asString
+	| size |
+	size := anInteger min: 512 max: 1.
+	url addField: 'size' value: size asString.
+	self
+		height: size;
+		width: size

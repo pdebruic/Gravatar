@@ -1,0 +1,4 @@
+defaults
+gravatarDefaultRating
+
+	^ #generalAudience

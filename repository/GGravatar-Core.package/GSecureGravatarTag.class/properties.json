@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "GGravatarTag",
+	"category" : "GGravatar-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GSecureGravatarTag",
+	"type" : "normal"
+}

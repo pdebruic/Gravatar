@@ -1,0 +1,4 @@
+defaults
+gravatarDefaultStyle
+
+	^ #mysteryMan
